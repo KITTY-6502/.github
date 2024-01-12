@@ -1,6 +1,6 @@
 # the KITTY Computer Organization REPO
 
-the KITTY is a (currently in-development) 65c02-based open source homebrew computer geared towards text mode and PETSCII-inspired graphics and games. The design is using only in-production parts and custom discrete logic circutry·
+the KITTY is a (currently in-development) 65c02-based open source homebrew computer geared towards text mode and PETSCII-inspired graphics and games. The design uses only in-production parts and custom discrete logic circutry·
 
 **Useful Links**
 * [Online Manual](https://kitty-6502.github.io/)
