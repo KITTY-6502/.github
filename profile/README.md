@@ -22,8 +22,8 @@ the KITTY is a (currently in-development) 65c02-based open source homebrew compu
 * * RGB Output via SCART Connector
 * **AUDIO:** Custom "Wavetable" audio
 * * 4 Channels of audio, 3 melodic and 1 percussive
-* * 1byte (8x1) wavetable
-* * 4bit+4bit stereo audio control
+* * 1byte (8x1) wavetables
+* * 4bit+4bit stereo volume control
 * **PORTS:** 2 Cartridge Ports used for Programs, Expansion and Peripherals
 * * Each Cartridge contains up to 128 banks of 32Kib for a total maximum 4Mib Address Space
 * **INPUT:** Custom 40-key mechanical keyboard matrix
