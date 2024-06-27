@@ -6,6 +6,8 @@ the KITTY is a (currently in-development) 65c02-based open source homebrew compu
 * [Online Manual](https://kitty-6502.github.io/)
 * [Hardware Schematic](https://github.com/KITTY-6502/hardware/blob/main/Docs/schematics/v2a.pdf)
 * [WIP Emulator](https://github.com/kitty-6502/KittyEMU)
+* [Discord Server](https://discord.gg/pZZFwxz5js)
+* [Cohost Posts](https://cohost.org/smal/tagged/KITTY%20Computer)
 
 > At the moment the hardware is still in active prototype development, and there is still no stable PCB revision, this page will be updated once that happens.
 
